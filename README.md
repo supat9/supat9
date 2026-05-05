@@ -1,14 +1,6 @@
 Hi 👋 My name is Supat Yadav
 ============================
 
-Full Stack
-----------
-
-* 🌍  I'm based in Thailand
-
-### Skills
-
-
 ### Skills
 
 <p align="left">
