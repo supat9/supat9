@@ -8,7 +8,7 @@ Hi 👋 My name is Supat Yadav
 <div align="left">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=golang,nodejs,express" />
