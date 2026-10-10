@@ -1,34 +1,37 @@
-Hi 👋 My name is Supat Yadav
-============================
-💻 Full Stack Developer 
+# Hi 👋 I'm Supat Yadav
 
-🌐 Portfolio: https://supat-yad.vercel.app/
+💻 **Full Stack Software Engineer**
+
+I build web applications with React, Next.js, and Go, with experience
+in RESTful API development, database integration, AWS deployment,
+and CI/CD workflows.
+
+🌐 **Portfolio:** [supat-yad.vercel.app](https://supat-yad.vercel.app/)
+
 ## 🚀 Tech Stack
 
-<div align="left">
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=golang,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express" alt="Go, Node.js, Express.js" />
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+RESTful APIs · Gin Framework · Authentication · Payment Gateway Integration
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,github,git,linux" />
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" />
 
-</div>
+### Cloud & Development Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel" alt="AWS, Docker, Git, GitHub, Postman, Vercel" />
+
+AWS Deployment · CI/CD Workflows
+
+### AI
+- Application integration for knowledge retrieval and data summarization
+- AI-assisted development with Claude Code and ChatGPT
 
 ## 📫 Contact
 
-<p align="left">
-<a href="https://linkedin.com/in/supat9">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:supat.yad@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+[Portfolio](https://supat-yad.vercel.app/) ·
+[LinkedIn](https://linkedin.com/in/supat9) ·
+[Email](mailto:supat.yad@gmail.com)
